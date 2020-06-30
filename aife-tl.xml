@@ -9,7 +9,7 @@
         </SchemeOperatorName>
         <SchemeOperatorAddress>
             <PostalAddresses>
-                <PostalAddress>
+                <PostalAddress xml:lang="fr">
                     <StreetAddress>10 rue du centre</StreetAddress>
                     <Locality>Noisy-le-Grand</Locality>
                     <PostalCode>93160</PostalCode>
